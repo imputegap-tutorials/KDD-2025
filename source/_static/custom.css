@@ -1,0 +1,57 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    color: #333;
+    background-color: #ffffff;
+    text-align: justify;
+}
+
+
+p
+{
+    text-align: justify;
+}
+
+nav
+{
+    text-align: left;
+}
+.md-nav__title[for="__toc"] {
+    display: none;
+}
+
+.md-nav__title--site a:nth-of-type(2) {
+    display: none;
+}
+
+.md-nav--primary::before {
+    content: "";
+    display: block;
+    background: url("_static/logo.png") no-repeat center center;
+    background-size: contain;
+    height: 360px;
+    margin-bottom: 360px;
+}
+
+
+
+.wy-nav-side {
+    background: #f5f5f5;
+}
+
+.wy-menu-vertical a {
+    color: #222;
+    font-weight: bold;
+    display: block; /* Ensures proper spacing */
+    padding: 10px 0; /* Adjusts vertical spacing */
+    margin-bottom: 8px; /* Adds space between links */
+}
+
+.rst-content .note {
+    background-color: #eef4fc;
+    border-left: 5px solid #3b7ddd;
+    padding: 10px;
+    text-align: justify;
+}
