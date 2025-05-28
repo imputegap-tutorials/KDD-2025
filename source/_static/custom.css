@@ -29,7 +29,7 @@ nav
 .md-nav--primary::before {
     content: "";
     display: block;
-    background: url("_static/logo.png") no-repeat center center;
+    background: url("https://www.naterscreations.com/imputegap/logo_imputegab.png") no-repeat center center;
     background-size: contain;
     height: 360px;
     margin-bottom: 360px;
