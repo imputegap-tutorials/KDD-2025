@@ -32,7 +32,7 @@ autosummary_generate = True  # Automatically generate method summaries
 
 html_static_path = ['_static']
 
-html_logo = "_static/logo.png"
+html_logo = "https://www.naterscreations.com/imputegap/logo_imputegab.png"
 
 html_favicon = "https://www.naterscreations.com/imputegap/favicon.png"
 
