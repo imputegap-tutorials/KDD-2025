@@ -55,3 +55,54 @@ nav
     padding: 10px;
     text-align: justify;
 }
+
+
+/* Ensure nav tabs always remain visible, even on small screens */
+.md-tabs {
+    display: block !important;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.md-tabs__item {
+    display: inline-block;
+}
+
+/* Force header background color */
+[data-md-component="header"] {
+    background-color: #546e7a !important;
+}
+
+/* Force tabs bar background color */
+.md-tabs {
+    background-color: #546e7a !important;
+}
+
+
+/* Prevent Material theme from hiding the nav links on mobile */
+@media screen and (max-width: 76.1875em) {
+
+    /* Ensure nav tabs always remain visible, even on small screens */
+    .md-tabs {
+        display: block !important;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+
+    .md-tabs__item {
+        display: inline-block;
+    }
+
+    /* Force header background color */
+    [data-md-component="header"] {
+        background-color: #546e7a !important;
+    }
+
+    /* Force tabs bar background color */
+    .md-tabs {
+        background-color: #546e7a !important;
+    }
+
+
+
+}
