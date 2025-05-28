@@ -11,8 +11,8 @@ import sys
 project = 'imputegap'
 copyright = '2025, Quentin Nater'
 author = 'Quentin Nater'
-html_title = 'ImputeGAP 1.0.9 Documentation'
-html_short_title = 'ImputeGAP 1.0.9 Documentation'
+html_title = 'A Hands-on Tutorial on Time Series Imputation with ImputeGAP'
+html_short_title = "Tutorials"
 
 
 # -- General configuration ---------------------------------------------------
@@ -29,64 +29,51 @@ extensions = [
 ]
 
 autosummary_generate = True  # Automatically generate method summaries
-html_sidebars = {
-    "**": [
-        "sidebar/brand.html",  # Logo and project name
-        "sidebar/search.html",  # Search bar
-        "sidebar/github.html",
-        "sidebar/navigation.html",  # Collapsible navigation
-        "sidebar/scroll-start.html",
-        "sidebar/scroll-end.html",
-    ]
-}
 
+html_static_path = ['_static']
 
+html_logo = "_static/logo.png"
 
-
-html_logo = "https://www.naterscreations.com/imputegap/logo_imputegab.png"
 html_favicon = "https://www.naterscreations.com/imputegap/favicon.png"
 
-html_static_path = ['static']
 html_css_files = ['custom.css']
 
-# Set the version and release info
-version = '1.0.9'
-release = '1.0.9'
-
-html_title = "ImputeGAP 1.0.9 Documentation"
-
-
-html_theme_options = {
-    "sidebar_hide_name": False,
-    "light_css_variables": {
-        "color-sidebar-background": "#1e1e1e",  # Dark sidebar background
-        "color-sidebar-text": "#ffffff",  # White text
-        "sidebar-width": "300px",  # Adjust sidebar width
-    },
-}
-
-
+html_title = "ImputeGAP Tutorials - KDD'25"
 
 
 templates_path = ['_templates']
 exclude_patterns = []
 
 
+html_theme = "sphinx_material"
 
-# -- Options for HTML output -------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = "furo"
-html_static_path = ['_static']
+html_theme_options = {
+    "nav_title": "ImputeGAP Tutorials - KDD'25",
+    "color_primary": "blue-grey",
+    "color_accent": "teal",
+    "repo_url": "https://github.com/eXascaleInfolab/ImputeGAP/",
+    "repo_name": "GitHub",
+    "nav_links": [
+        {"href": "schedule.html", "title": "Schedule"},
+        {"href": "slides_codes.html", "title": "Slides & Code"},
+        {"href": "presenters.html", "title": "Presenters"},
+        {"href": "https://kdd2025.kdd.org/", "title": "KDD'25", "internal": False},
+    ],
+
+}
+
+html_context = {
+    "github_user": "eXascaleInfolab",
+    "github_repo": "https://github.com/eXascaleInfolab/ImputeGAP",
+    "display_github": True,
+}
+
+html_show_sourcelink = False
+
 
 napoleon_google_docstring = True
 napoleon_numpy_docstring = False
 
-
-html_theme_options = {
-    "collapse_navigation": False,
-    "sticky_navigation": True,
-    "navigation_depth": 3,
-}
 
 sys.path.insert(0, os.path.abspath('../../../'))  # Adjust path to the project root
