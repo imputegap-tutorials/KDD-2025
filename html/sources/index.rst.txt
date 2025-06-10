@@ -37,6 +37,8 @@ Related Papers
 
 * Ines Arous, Mourad Khayati, Philippe Cudré-Mauroux, Ying Zhang, Martin Kersten, and Svetlin Stalinlov: “RecovDB: Accurate and Efficient Missing Blocks Recovery for Large Time Series.” In Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2019.
 
+* Mourad Khayati, Guillaume Chacun, Zakhar Tymchenko, Philippe Cudré-Mauroux: "A-DARTS: Stable Model Selection for Data Repair in Time Series". In Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2025
+
 
 .. raw:: html
 
