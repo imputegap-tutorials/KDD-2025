@@ -58,7 +58,7 @@ html_theme_options = {
         {"href": "schedule.html", "title": "Schedule"},
         {"href": "slides_codes.html", "title": "Slides & Code"},
         {"href": "presenters.html", "title": "Presenters"},
-        {"href": "https://kdd2025.kdd.org/", "title": "KDD'25", "internal": False},
+        {"href": "https://imputegap.readthedocs.io/", "title": "ImputeGAP", "internal": False},
     ],
 
 }

@@ -2,36 +2,36 @@
 Schedule
 ========
 
-Part I: Pipeline Creation
--------------------------
 
-**Section 1: Introduction and Overview (10 min)**
+Section 1: Introduction and Overview (20 min)
+---------------------------------------------
 
-▸ Time series applications
+▸ Time Series applications
 
 ▸ Missing data
 
-▸ Data cleaning
+▸ Imputation categories
 
 .. raw:: html
 
     <br>
 
 
-**Section 2: ImputeGAP Basics (20 min)**
-
-▸ Library features
-
-▸ Imputation algorithm categories
+Section 2: ImputeGAP Features  (10 min)
+---------------------------------------
 
 ▸ Supported datasets
 
+▸ Supported algorithms
+
+
 .. raw:: html
 
     <br>
 
 
-**Section 3: Imputation Pipeline Synthesis (60 min)**
+Section 3: Imputation Pipeline Synthesis (60 min)
+-------------------------------------------------
 
 ▸ Dataset loading and contamination
 
@@ -46,12 +46,6 @@ Part I: Pipeline Creation
     <br>
 
 
-**Q&A**
-
-.. raw:: html
-
-    <br>
-
 *Coffee Break*
 
 .. raw:: html
@@ -59,10 +53,9 @@ Part I: Pipeline Creation
     <br>
 
 
-Part II: Advanced Analytics
----------------------------
 
-**Section 4: Imputation Explainability (20 min)**
+Section 4: Imputation Explainability (20 min)
+---------------------------------------------
 
 ▸ Time series characterization
 
@@ -75,7 +68,8 @@ Part II: Advanced Analytics
     <br>
 
 
-**Section 5: Downstream Analysis (20 min)**
+Section 5: Downstream Analysis (20 min)
+---------------------------------------
 
 ▸ Downstream models
 
@@ -88,7 +82,8 @@ Part II: Advanced Analytics
     <br>
 
 
-**Section 6: Library Extension (20 min)**
+Section 6: Library Extension (20 min)
+-------------------------------------
 
 ▸ Python integration
 
