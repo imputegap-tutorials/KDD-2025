@@ -4,7 +4,7 @@ Slides & Code
 
 This tutorial will make use of the `ImputeGAP <https://imputegap.readthedocs.io/en/latest/>`_ for its code examples. *ImputeGAP* is a comprehensive Python library for imputation of missing values in time series data. It implements user-friendly APIs to easily visualize, analyze, and repair time series datasets. The library supports a diverse range of imputation algorithms and modular missing data simulation catering to datasets with varying characteristics. ImputeGAP includes extensive customization options, such as automated hyperparameter tuning, benchmarking, explainability, and downstream evaluation.
 
-The code examples will be provided in Jupyter notebooks, which will *soon* be available for each topic. All the notebooks and slides will be available on `this GitHub repository <https://github.com/eXascaleInfolab/ImputeGAP/>`_.
+The code examples will be provided in Jupyter notebooks, which will *soon* be available for each topic. All the notebooks and slides will be available on this `GitHub repository <https://github.com/eXascaleInfolab/ImputeGAP/>`_.
 
 Tutorial Materials
 ------------------

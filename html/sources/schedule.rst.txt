@@ -12,9 +12,6 @@ Section 1: Introduction and Overview (20 min)
 
 ▸ Imputation categories
 
-.. raw:: html
-
-    <br>
 
 
 Section 2: ImputeGAP Features  (10 min)
@@ -24,10 +21,6 @@ Section 2: ImputeGAP Features  (10 min)
 
 ▸ Supported algorithms
 
-
-.. raw:: html
-
-    <br>
 
 
 Section 3: Imputation Pipeline Synthesis (60 min)
@@ -48,9 +41,6 @@ Section 3: Imputation Pipeline Synthesis (60 min)
 
 *Coffee Break*
 
-.. raw:: html
-
-    <br>
 
 
 
@@ -63,9 +53,6 @@ Section 4: Imputation Explainability (20 min)
 
 ▸ Confidence analysis
 
-.. raw:: html
-
-    <br>
 
 
 Section 5: Downstream Analysis (20 min)
@@ -77,9 +64,6 @@ Section 5: Downstream Analysis (20 min)
 
 ▸ Upstream vs. downstream gains
 
-.. raw:: html
-
-    <br>
 
 
 Section 6: Library Extension (20 min)
@@ -89,13 +73,13 @@ Section 6: Library Extension (20 min)
 
 ▸ Wrappers support
 
+
 .. raw:: html
 
     <br>
 
 
-**Q&A**
-
+*Q&A*
 
 .. raw:: html
 

@@ -96,9 +96,12 @@
       <change beforePath="$PROJECT_DIR$/html/static/stylesheets/application.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html/static/tabs.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html/static/tabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_static/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/_static/custom.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/conf.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/presenters.rst" beforeDir="false" afterPath="$PROJECT_DIR$/source/presenters.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/schedule.rst" beforeDir="false" afterPath="$PROJECT_DIR$/source/schedule.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/slides_codes.rst" beforeDir="false" afterPath="$PROJECT_DIR$/source/slides_codes.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +135,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;naterq__view__schedule&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;naterq__kdd__pres__beta&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/nquen/switchdrive/MST_MasterThesis/KDD-2025&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -173,7 +176,8 @@
       <workItem from="1748451382844" duration="201000" />
       <workItem from="1749027241624" duration="3642000" />
       <workItem from="1749044052229" duration="894000" />
-      <workItem from="1749559662513" duration="500000" />
+      <workItem from="1749559662513" duration="857000" />
+      <workItem from="1749716822808" duration="3125000" />
     </task>
     <servers />
   </component>
