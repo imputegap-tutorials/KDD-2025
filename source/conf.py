@@ -12,7 +12,7 @@ project = 'imputegap'
 copyright = '2025, Quentin Nater'
 author = 'Quentin Nater'
 html_title = 'A Hands-on Tutorial on Time Series Imputation with ImputeGAP'
-html_short_title = "Tutorials"
+html_short_title = "Tutorial"
 
 
 # -- General configuration ---------------------------------------------------
@@ -49,7 +49,7 @@ html_theme = "sphinx_material"
 
 
 html_theme_options = {
-    "nav_title": "ImputeGAP Tutorials - KDD'25",
+    "nav_title": "ImputeGAP Tutorial - KDD'25",
     "color_primary": "blue-grey",
     "color_accent": "teal",
     "repo_url": "https://github.com/eXascaleInfolab/ImputeGAP/",
@@ -58,7 +58,7 @@ html_theme_options = {
         {"href": "schedule.html", "title": "Schedule"},
         {"href": "slides_codes.html", "title": "Slides & Code"},
         {"href": "presenters.html", "title": "Presenters"},
-        {"href": "https://imputegap.readthedocs.io/", "title": "ImputeGAP", "internal": False},
+        {"href": "https://imputegap.readthedocs.io/", "title": "Library", "internal": False},
     ],
 
 }

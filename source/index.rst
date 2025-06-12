@@ -1,5 +1,5 @@
-ImputeGAP Tutorials - KDD'25
-============================
+ImputeGAP Tutorial - KDD'25
+===========================
 
 In this tutorial, we will provide an engaging hands-on tutorial where you will learn time series imputation using the powerful Python library, ImputeGAP. The tutorial is divided into two parts. In the first part, we will dive into building an end-to-end imputation workflow with the library, where you will explore real-world missingness patterns simulation, leverage automated tuning for optimal imputation, and benchmark imputation techniques—all with extensive customization options. In the second part, we will unlock advanced functionalities, including assessing the impact of imputation on downstream analytics and understanding how time series features influence imputation outcomes. The ImputeGAP library is accessible at: `https://imputegap.readthedocs.io <https://imputegap.readthedocs.io>`_.
 
@@ -31,13 +31,13 @@ Related Papers
 
 * Quentin Nater, Mourad Khayati, Jacques Pasquier: "ImputeGAP: A Comprehensive Library for Time Series Imputation" arXiv, 2025
 
+* Mourad Khayati, Guillaume Chacun, Zakhar Tymchenko, Philippe Cudré-Mauroux: "A-DARTS: Stable Model Selection for Data Repair in Time Series". In Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2025
+
 * Mourad Khayati, Quentin Nater, and Jacques Pasquier: “ImputeVIS: An Interactive Evaluator to Benchmark Imputation Techniques for Time Series Data.” Proceedings of the VLDB Endowment (PVLDB), 2024.
 
 * Mourad Khayati, Alberto Lerner, Zakhar Tymchenko, and Philippe Cudré-Mauroux: “Mind the Gap: An Experimental Evaluation of Imputation of Missing Values Techniques in Time Series.” In Proceedings of the VLDB Endowment (PVLDB), 2020.
 
 * Ines Arous, Mourad Khayati, Philippe Cudré-Mauroux, Ying Zhang, Martin Kersten, and Svetlin Stalinlov: “RecovDB: Accurate and Efficient Missing Blocks Recovery for Large Time Series.” In Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2019.
-
-* Mourad Khayati, Guillaume Chacun, Zakhar Tymchenko, Philippe Cudré-Mauroux: "A-DARTS: Stable Model Selection for Data Repair in Time Series". In Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2025
 
 
 .. raw:: html
