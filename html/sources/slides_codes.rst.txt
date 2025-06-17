@@ -19,6 +19,6 @@ Tutorial Materials
 
 **Slides and Notebooks**
 
-▸ [Part 1] Pipeline Creation `Slides I [soon] <https://github.com/eXascaleInfolab/ImputeGAP/tree/main/imputegap/slides>`_, `Jupyter Notebook I <https://github.com/eXascaleInfolab/ImputeGAP/blob/refs/heads/main/imputegap/notebook/01_imputegap_imputation_pipeline.ipynb>`_, `Colab Notebook I <https://colab.research.google.com/drive/1Kq1_HVoCTWLtB1zyryR35opxXmaprztV?usp=sharing>`_
+▸ [Part 1] Pipeline Creation `Slides I [soon] <https://github.com/eXascaleInfolab/ImputeGAP/tree/main/imputegap/slides>`_, `Jupyter Notebook I <https://github.com/eXascaleInfolab/ImputeGAP/blob/refs/heads/main/imputegap/notebooks/01_imputegap_pipeline_creation.ipynb>`_, `Colab Notebook I <https://colab.research.google.com/drive/1Kq1_HVoCTWLtB1zyryR35opxXmaprztV?usp=sharing>`_
 
-▸ [Part 2] Advanced Analytics `Slides II [soon] <https://github.com/eXascaleInfolab/ImputeGAP/tree/main/imputegap/slides>`_, `Jupyter Notebook II <https://github.com/eXascaleInfolab/ImputeGAP/blob/refs/heads/main/imputegap/notebook/02_imputegap_advanced_analysis.ipynb>`_, `Colab Notebook II <https://colab.research.google.com/drive/1iOzLtpZTA3KDoyIc-srw2eoX5soEmP8x?usp=sharing>`_
+▸ [Part 2] Advanced Analytics `Slides II [soon] <https://github.com/eXascaleInfolab/ImputeGAP/tree/main/imputegap/slides>`_, `Jupyter Notebook II <https://github.com/eXascaleInfolab/ImputeGAP/blob/refs/heads/main/imputegap/notebooks/02_imputegap_advanced_analytics.ipynb>`_, `Colab Notebook II <https://colab.research.google.com/drive/1iOzLtpZTA3KDoyIc-srw2eoX5soEmP8x?usp=sharing>`_
