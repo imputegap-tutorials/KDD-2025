@@ -4,105 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d813031b-3b1b-4ea5-92ca-613eb978ba5f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctrees/environment.pickle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctrees/index.doctree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctrees/presenters.doctree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctrees/schedule.doctree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctrees/slides_codes.doctree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/.buildinfo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/.nojekyll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/genindex.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/images/mourad_khayati.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/images/quentin_nater.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/objects.inv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/presenters.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/schedule.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/searchindex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/slides_codes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/sources/index.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/sources/presenters.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/sources/schedule.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/sources/slides_codes.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/_static/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/basic.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/check-solid.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/clipboard.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/copy-button.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/copybutton.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/copybutton.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/copybutton_funcs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/doctools.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/documentation_options.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/file.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/fonts/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/fonts/material-icons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/fonts/specimen/FontAwesome.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/fonts/specimen/FontAwesome.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/fonts/specimen/FontAwesome.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/fonts/specimen/MaterialIcons-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/fonts/specimen/MaterialIcons-Regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/fonts/specimen/MaterialIcons-Regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/github.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/images/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/images/icons/bitbucket.1b09e088.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/images/icons/bitbucket.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/images/icons/github.f0b8504a.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/images/icons/github.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/images/icons/gitlab.6dd19c00.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/images/icons/gitlab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/application.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.du.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.fi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.fr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.hu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.it.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.ja.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.jp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.multi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.nl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.no.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.pt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.ro.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.ru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.stemmer.support.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.sv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.th.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/lunr.tr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/tinyseg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/lunr/wordcut.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/modernizr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/javascripts/version_dropdown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/jquery.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/language_data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/material.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/minus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/plus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/pygments.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/pypi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/searchtools.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/sphinx_highlight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/stylesheets/application-fixes.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/stylesheets/application-palette.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/stylesheets/application.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/tabs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/static/tabs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_static/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/_static/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/conf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/presenters.rst" beforeDir="false" afterPath="$PROJECT_DIR$/source/presenters.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/schedule.rst" beforeDir="false" afterPath="$PROJECT_DIR$/source/schedule.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/slides_codes.rst" beforeDir="false" afterPath="$PROJECT_DIR$/source/slides_codes.rst" afterDir="false" />
-    </list>
+    <list default="true" id="d813031b-3b1b-4ea5-92ca-613eb978ba5f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +37,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;naterq__kdd__pres__beta&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;naterq__kdd__a__ref&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/nquen/switchdrive/MST_MasterThesis/KDD-2025&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -177,7 +79,8 @@
       <workItem from="1749027241624" duration="3642000" />
       <workItem from="1749044052229" duration="894000" />
       <workItem from="1749559662513" duration="857000" />
-      <workItem from="1749716822808" duration="3125000" />
+      <workItem from="1749716822808" duration="3396000" />
+      <workItem from="1750155092207" duration="3035000" />
     </task>
     <servers />
   </component>

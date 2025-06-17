@@ -2,6 +2,12 @@
 Schedule
 ========
 
+The tutorial is scheduled for **Monday, August 4 2025: 1:00 PM - 4:00 PM**.
+
+.. raw:: html
+
+    <br>
+
 
 Section 1: Introduction and Overview (20 min)
 ---------------------------------------------
@@ -74,9 +80,6 @@ Section 6: Library Extension (20 min)
 ▸ Wrappers support
 
 
-.. raw:: html
-
-    <br>
 
 
 *Q&A*
