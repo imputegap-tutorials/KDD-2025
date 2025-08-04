@@ -9,9 +9,11 @@ The code examples will be provided in Jupyter notebooks, which will *soon* be av
 Tutorial Materials
 ------------------
 
-**Paper**
+**Paper and slides**
 
 ▸ [PDF] `ImputeGAP: A Comprehensive Library for Time Series Imputation <https://arxiv.org/abs/2503.15250>`_.
+
+▸ [Slides] `<https://github.com/eXascaleInfolab/ImputeGAP/tree/main/imputegap/slides>`_
 
 .. raw:: html
 
@@ -19,6 +21,9 @@ Tutorial Materials
 
 **Slides and Notebooks**
 
-▸ [Part 1] Pipeline Creation `Slides I [soon] <https://github.com/eXascaleInfolab/ImputeGAP/tree/main/imputegap/slides>`_, `Jupyter Notebook I <https://github.com/eXascaleInfolab/ImputeGAP/blob/refs/heads/main/imputegap/notebooks/01_imputegap_pipeline_creation.ipynb>`_, `Colab Notebook I <https://colab.research.google.com/drive/1Kq1_HVoCTWLtB1zyryR35opxXmaprztV?usp=sharing>`_
+▸ [ImputeGAP] Hands-on: `Jupyter Notebook <https://github.com/eXascaleInfolab/ImputeGAP/blob/refs/heads/main/imputegap/notebooks/imputegap_tutorial_kdd25.ipynb>`_, `Colab Notebook <https://colab.research.google.com/drive/1xR90Pw1HVTwQ3c2yMN-QwUM-KYTOy3uJ?usp=sharing>`_
 
-▸ [Part 2] Advanced Analytics `Slides II [soon] <https://github.com/eXascaleInfolab/ImputeGAP/tree/main/imputegap/slides>`_, `Jupyter Notebook II <https://github.com/eXascaleInfolab/ImputeGAP/blob/refs/heads/main/imputegap/notebooks/02_imputegap_advanced_analytics.ipynb>`_, `Colab Notebook II <https://colab.research.google.com/drive/1iOzLtpZTA3KDoyIc-srw2eoX5soEmP8x?usp=sharing>`_
+
+.. raw:: html
+
+    <br>

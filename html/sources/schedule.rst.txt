@@ -2,7 +2,7 @@
 Schedule
 ========
 
-The tutorial is scheduled for **Monday, August 4 2025: 1:00 PM - 4:00 PM**.
+The tutorial is scheduled for **Monday, August 4 2025: 1:00 PM - 4:00 PM - location 707**.
 
 .. raw:: html
 
@@ -50,18 +50,7 @@ Section 3: Imputation Pipeline Synthesis (60 min)
 
 
 
-Section 4: Imputation Explainability (20 min)
----------------------------------------------
-
-▸ Time series characterization
-
-▸ Feature contribution
-
-▸ Confidence analysis
-
-
-
-Section 5: Downstream Analysis (20 min)
+Section 4: Downstream Analysis (20 min)
 ---------------------------------------
 
 ▸ Downstream models
@@ -69,6 +58,16 @@ Section 5: Downstream Analysis (20 min)
 ▸ Metric comparison
 
 ▸ Upstream vs. downstream gains
+
+
+Section 5: Imputation Explainability (20 min)
+---------------------------------------------
+
+▸ Time series characterization
+
+▸ Feature contribution
+
+▸ Confidence analysis
 
 
 
