@@ -21,12 +21,6 @@ Tutorial Materials
 
 **Notebooks**
 
-▸ [ImputeGAP] Hands-on: `Colab Notebook <https://colab.research.google.com/drive/1rTr04KofsiCCYpJ_zBqc1PjhRhlpItEo?usp=sharing>`_, `Jupyter Notebook <https://github.com/eXascaleInfolab/ImputeGAP/blob/refs/heads/main/imputegap/notebooks/t0_imputegap_tutorial_kdd25_fulltutorial.ipynb>`_
-
-.. raw:: html
-
-    <br>
-
 ▸ [ImputeGAP] Notebook 1 - Data Loading and Contamination: `Colab Notebook <https://colab.research.google.com/drive/1QY6aKwxhMh4MtDTQwVCjM9qXV54At9Dx?usp=sharing>`_, `Jupyter Notebook <https://github.com/eXascaleInfolab/ImputeGAP/blob/refs/heads/main/imputegap/notebooks/t1_imputegap_tutorial_kdd25_manager.ipynb>`_
 
 ▸ [ImputeGAP] Notebook 2 - Imputation: `Colab Notebook <https://colab.research.google.com/drive/1gXvqV_Wed7siTAysINgJIFljX1tHrWig?usp=sharing>`_, `Jupyter Notebook <https://github.com/eXascaleInfolab/ImputeGAP/blob/refs/heads/main/imputegap/notebooks/t2_imputegap_tutorial_kdd25_imputer.ipynb>`_
@@ -37,6 +31,7 @@ Tutorial Materials
 
 ▸ [ImputeGAP] Notebook 5 - Explainer: `Colab Notebook <https://colab.research.google.com/drive/1tiJpNzD4qvNOAyUgBSzYFKf1dZuVuXTV?usp=sharing>`_, `Jupyter Notebook <https://github.com/eXascaleInfolab/ImputeGAP/blob/refs/heads/main/imputegap/notebooks/t5_imputegap_tutorial_kdd25_explainer.ipynb>`_
 
+▸ [ImputeGAP] Full Hands-on: `Colab Notebook <https://colab.research.google.com/drive/1rTr04KofsiCCYpJ_zBqc1PjhRhlpItEo?usp=sharing>`_, `Jupyter Notebook <https://github.com/eXascaleInfolab/ImputeGAP/blob/refs/heads/main/imputegap/notebooks/t0_imputegap_tutorial_kdd25_fulltutorial.ipynb>`_
 
 .. raw:: html
 
