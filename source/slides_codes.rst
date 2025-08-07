@@ -13,7 +13,7 @@ Tutorial Materials
 
 ▸ [PDF] `ImputeGAP: A Comprehensive Library for Time Series Imputation <https://arxiv.org/abs/2503.15250>`_.
 
-▸ [Slides] `<https://github.com/eXascaleInfolab/ImputeGAP/blob/main/imputegap/slides/imputegap_kdd25_slides.pdf>`_
+▸ [Slides] `<https://github.com/eXascaleInfolab/ImputeGAP/blob/main/imputegap/slides/2025_imputegap_kdd.pdf>`_
 
 .. raw:: html
 
