@@ -14,6 +14,17 @@ p
     text-align: justify;
 }
 
+
+a.reference.external {
+  color: 	rgb(50, 160, 180) !important;  /* Replace with your desired color */
+  text-decoration: underline;
+}
+
+a.reference.external:hover {
+  color: 	rgb(60, 180, 190) !important;  /* Replace with your desired color */
+}
+
+
 nav
 {
     text-align: left;
@@ -77,6 +88,8 @@ nav
 .md-tabs {
     background-color: #546e7a !important;
 }
+
+
 
 
 /* Prevent Material theme from hiding the nav links on mobile */

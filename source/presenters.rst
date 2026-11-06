@@ -35,7 +35,7 @@ Mourad Khayati
    :class: portrait
    :target: https://exascale.info/members/mourad-khayati/
 
-Mourad Khayati is a Senior Researcher and a Lecturer with the eXascale Infolab and the Advanced Software Engineering group, respectively, at the Department of Computer Science of the `University of Fribourg <https://www.unifr.ch/home/en/>`_, Switzerland. He obtained his PhD from the University of Zurich, Switzerland, under the supervision of Prof. Michael Böhlen. His research interests include Time Series analytics and data quality with a special focus on temporal data repair/cleaning. He is the recipient of the VLDB 2020 Best Experiments and Analysis Paper Award.
+Mourad Khayati is a Senior Researcher and a Lecturer with the eXascale Infolab and the Advanced Software Engineering group, respectively, at the Department of Computer Science of the `University of Fribourg <https://www.unifr.ch/home/en/>`_, Switzerland. He obtained his PhD from the University of Zurich, Switzerland, under the supervision of Prof. Michael Böhlen. His research interests include Time Series analytics and data quality with a special focus on temporal data repair/cleaning. He is the recipient of the VLDB 2020 Best Experiments and Analysis Paper Award, and the Outstanding reviewer award at KDD 2025.
 
 .. raw:: html
 

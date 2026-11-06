@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d813031b-3b1b-4ea5-92ca-613eb978ba5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctrees/environment.pickle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctrees/index.doctree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctrees/presenters.doctree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctrees/schedule.doctree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctrees/slides_codes.doctree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctrees/environment.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/doctrees/environment.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctrees/index.doctree" beforeDir="false" afterPath="$PROJECT_DIR$/doctrees/index.doctree" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/.buildinfo" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html/.nojekyll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html/genindex.html" beforeDir="false" />
@@ -99,7 +93,8 @@
       <change beforePath="$PROJECT_DIR$/html/static/stylesheets/application.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html/static/tabs.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html/static/tabs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_static/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/_static/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/material.rst" beforeDir="false" afterPath="$PROJECT_DIR$/source/materials.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,12 +110,12 @@
     &quot;assignee&quot;: &quot;qnater&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/imputegap-tutorials/KDD-2025",
-    "accountId": "32f015f3-ec64-4f02-b886-c90fbcb17d2c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/imputegap-tutorials/KDD-2025&quot;,
+    &quot;accountId&quot;: &quot;32f015f3-ec64-4f02-b886-c90fbcb17d2c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -133,9 +128,9 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "naterq__kdd__materials",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/nquen/switchdrive/MST_MasterThesis/imputegap-tutorials.github.io/source/_static/_static",
+    "last_opened_file_path": "C:/Users/nquen/switchdrive/MST_MasterThesis/KDD-2025",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -153,11 +148,22 @@
       <recent name="C:\Users\nquen\switchdrive\MST_MasterThesis\imputegap-tutorials.github.io" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -171,6 +177,26 @@
       <updated>1748435567974</updated>
       <workItem from="1748435569143" duration="9513000" />
       <workItem from="1748450555279" duration="799000" />
+      <workItem from="1748451382844" duration="201000" />
+      <workItem from="1749027241624" duration="3642000" />
+      <workItem from="1749044052229" duration="894000" />
+      <workItem from="1749559662513" duration="857000" />
+      <workItem from="1749716822808" duration="3396000" />
+      <workItem from="1750155092207" duration="3657000" />
+      <workItem from="1754256751655" duration="932000" />
+      <workItem from="1754257705957" duration="609000" />
+      <workItem from="1754258662912" duration="592000" />
+      <workItem from="1754262722189" duration="4110000" />
+      <workItem from="1754312400360" duration="2776000" />
+      <workItem from="1754338225775" duration="2217000" />
+      <workItem from="1754342270060" duration="905000" />
+      <workItem from="1754440481879" duration="12000" />
+      <workItem from="1754531596851" duration="730000" />
+      <workItem from="1756728655662" duration="612000" />
+      <workItem from="1765985351750" duration="52000" />
+      <workItem from="1771407865481" duration="1266000" />
+      <workItem from="1771491829664" duration="609000" />
+      <workItem from="1793976933557" duration="959000" />
     </task>
     <servers />
   </component>
