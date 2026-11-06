@@ -52,7 +52,7 @@ Related Papers
    :caption: Contents:
    :hidden:
 
-   material
+   materials
    schedule
    presenters
 

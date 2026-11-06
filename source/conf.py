@@ -55,8 +55,8 @@ html_theme_options = {
     "repo_url": "https://github.com/eXascaleInfolab/ImputeGAP/",
     "repo_name": "GitHub",
     "nav_links": [
+        {"href": "materials.html", "title": "Materials"},
         {"href": "schedule.html", "title": "Schedule"},
-        {"href": "slides_codes.html", "title": "Slides & Code"},
         {"href": "presenters.html", "title": "Presenters"},
         {"href": "https://imputegap.readthedocs.io/", "title": "Library", "internal": False},
     ],
