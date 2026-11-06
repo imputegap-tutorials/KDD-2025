@@ -1,7 +1,7 @@
 ImputeGAP Tutorial - KDD'25
 ===========================
 
-In this tutorial, we will provide an engaging hands-on tutorial where you will learn time series imputation using the powerful Python library, ImputeGAP. The tutorial is divided into two parts. In the first part, we will dive into building an end-to-end imputation workflow with the library, where you will explore real-world missingness patterns simulation, leverage automated tuning for optimal imputation, and benchmark imputation techniques—all with extensive customization options. In the second part, we will unlock advanced functionalities, including assessing the impact of imputation on downstream analytics and understanding how time series features influence imputation outcomes. The ImputeGAP library is accessible at: `https://imputegap.readthedocs.io <https://imputegap.readthedocs.io>`_.
+In this tutorial, we will provide an engaging hands-on tutorial where you will learn time series imputation using the powerful Python library, ImputeGAP. The tutorial is divided into two parts. In the first part, we will dive into building an end-to-end imputation workflow with the library, where you will explore real-world missingness patterns simulation, leverage automated tuning for optimal imputation, and benchmark imputation techniques, all with extensive customization options. In the second part, we will unlock advanced functionalities, including assessing the impact of imputation on downstream analytics and understanding how time series features influence imputation outcomes. The ImputeGAP library is accessible at: `https://imputegap.readthedocs.io <https://imputegap.readthedocs.io>`_.
 
 
 
@@ -52,7 +52,7 @@ Related Papers
    :caption: Contents:
    :hidden:
 
-   slides_codes
+   material
    schedule
    presenters
 
